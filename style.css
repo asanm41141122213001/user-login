@@ -1,0 +1,24 @@
+body{
+    font-family: Arial;
+    background-color: lightblue;
+}
+
+.login-box{
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    background: white;
+    text-align: center;
+    border: 1px solid gray;
+}
+
+input{
+    width: 90%;
+    padding: 8px;
+}
+
+input[type="submit"]{
+    background: green;
+    color: white;
+    border: none;
+}
